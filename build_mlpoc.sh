@@ -1,5 +1,5 @@
 #!/bin/sh
-resourceGroupName="sarsmlpocza"
+resourceGroupName="mlpocza"
 pocLocation="westeurope"
 mlLocation="westeurope"
 servicePrincipalName="rbmlpocspaaa"
