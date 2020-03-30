@@ -9,6 +9,7 @@ servicePrincipalName="rbmlpocspaaa"
      mlWorkspaceName="rbmlpocwsaaa"
    mlWksFriendlyName="MLPoCWS"
 
+###################################################################
 # Create Resource Group
 az group create --name $resourceGroupName --location $dlLocation
 
